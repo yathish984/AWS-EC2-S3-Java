@@ -1,0 +1,1 @@
+Hello! This file is uploaded from EC2 to S3 using Java.
